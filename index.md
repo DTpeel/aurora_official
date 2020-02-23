@@ -1,7 +1,8 @@
 ## Welcome to 清丰君NB Pages
 <style type="text/css">
   body{
-  background-image: url(./home/1.png)
+  background-image: url(./home/1.png);
+  background-size: 100% 100%;
   }
   </style>
 
