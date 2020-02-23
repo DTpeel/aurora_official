@@ -1,7 +1,7 @@
 ## Welcome to 清丰君NB Pages
 
 清丰君的b站账号： [清丰君qfj](https://space.bilibili.com/414860281?from=search&seid=18175999809506675303) 
-
+清丰君的非官方wiki：（纯属胡扯）[wiki](https://github.com/DTpeel/homepage/wiki)
 
 
 
