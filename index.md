@@ -1,6 +1,28 @@
 ## Welcome to 清丰君NB Pages
 
-清丰君的b站账号： [清丰君qfj](https://space.bilibili.com/414860281?from=search&seid=18175999809506675303) to maintain and preview the content for your website in Markdown files.
+清丰君的b站账号： [清丰君qfj](https://space.bilibili.com/414860281?from=search&seid=18175999809506675303) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
