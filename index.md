@@ -6,6 +6,9 @@
 
 粉丝群：105363024<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=44215c63afbe7ffef01a54753a3c148923c6e0bc7b061ef283f5ab59784d8f3f"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="植物大战僵尸：冒险时" title="植物大战僵尸：冒险时"></a>
 
+<embed src="//music.163.com/style/swf/widget.swf?sid=4010234&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
