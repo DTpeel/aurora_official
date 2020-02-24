@@ -17,6 +17,12 @@
 群意见反馈：[如有意见请在此反馈（无需全填）](https://docs.qq.com/form/edit/BqI21X2yZIht1QOI5S28Zx6o23ngqV2VuNpq2ufEmB36DXW34azzwf3C3fB70rLWGf2ICBVE29B7UH3NMd4r2?tdsourcetag=s_pctim_send_grpfile&ADUIN=3279587648&ADSESSION=1582451887&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26933#/edit)
                <img src="./home/0.png">
 
+<div class="clearfix g-search search-container">
+  <input type="text" placeholder="搜索视频">
+  <span class="icon search-btn">
+  </span>
+</div>
+
 ### 植物大战僵尸
 链接合集：
 <img src="./home/2.png">
