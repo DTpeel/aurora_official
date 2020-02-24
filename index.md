@@ -27,7 +27,7 @@
 
 
 # 宣传片
-
+blob:https://www.bilibili.com/25e9bbc8-c4a2-472a-a238-e2c817fcc500
 ### 植物大战僵尸
 链接合集：
 <img src="./home/2.png">
