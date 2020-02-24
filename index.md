@@ -69,5 +69,4 @@ javascript:var a=document.body.innerHTML;alert(a.length);
 </li>
 <li class="downloads">
   <a href="http://wpa.qq.com/msgrd?v=3&uin=2820685440&site=qq&menu=yes">..........................................<img src="./home/5.png">...............................................................</a>
-  </a>
 </li>
