@@ -70,3 +70,7 @@ javascript:var a=document.body.innerHTML;alert(a.length);
 <li class="downloads">
   <a href="http://wpa.qq.com/msgrd?v=3&uin=2820685440&site=qq&menu=yes">..........................................................<img src="./home/5.png">.........................................................</a>
 </li>
+
+<li class="downloads">
+  <a href="https://www.so.com/link?m=adDK73jKQjYYq1aAsK2YTR2Di5BhWoKDXJuIvJVhQwYMKJspJyJNA7dh0X4B4JbBLw%2B89V2s8Vqx%2BUSQtZi4xvf1fcEDyiYFnA6HHL6vuRxifz5o3SRJY5m4TkSr7oHKRBUJGUcp1uy8%3D">..........................................................<img src="./home/6.png">.........................................................</a>
+</li>
