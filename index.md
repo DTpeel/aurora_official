@@ -27,7 +27,9 @@
 
 
 # 宣传片
-<div class="bilibili-player-video-wrap"><div class="bilibili-player-video-top">
+<div id="playerWrap" class="player-wrap" style="height: auto;"><div id="bofqi" style="width: 638px; height: 493px; position: static;"><div class="player" style="width:100%;height:100%;"><div id="bilibiliPlayer" class="bilibili-player relative bilibili-player-no-cursor" data-login="false">
+        <div class="bilibili-player-area video-state-pause video-control-show video-state-blackside" aria-label="哔哩哔哩播放器">
+            <div class="bilibili-player-video-wrap"><div class="bilibili-player-video-top">
                     <div class="bilibili-player-video-top-mask"></div>
                     <div class="bilibili-player-video-top-title">《植物大战僵尸：冒险时光》宣传片</div>
                     <div class="bilibili-player-video-top-follow"><img class="bilibili-player-video-top-follow-img" src="//i1.hdslb.com/bfs/face/3fb25ef84305ee81c70cd197080332612f8df947.jpg"><span class="bilibili-player-video-top-follow-plus bilibili-player-video-top-follow-icon"><span class="bp-svgicon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M8 6.939l3.182-3.182a.75.75 0 111.061 1.061L9.061 8l3.182 3.182a.75.75 0 11-1.061 1.061L8 9.061l-3.182 3.182a.75.75 0 11-1.061-1.061L6.939 8 3.757 4.818a.75.75 0 111.061-1.061L8 6.939z"></path></svg></span></span><span class="bilibili-player-video-top-follow-text">关注</span></div>
@@ -75,7 +77,7 @@
         <div class="bui-thumb-dot-special" style="width: 18px;height: 18px;"><div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" width="18" height="18" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px);"><defs><clipPath id="__lottie_element_25"><rect width="18" height="18" x="0" y="0"></rect></clipPath></defs><g clip-path="url(#__lottie_element_25)"><g transform="matrix(1,0,0,1,8.937000274658203,8.25)" opacity="0.14" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0.07500000298023224,1.2130000591278076)"><path fill="rgb(251,114,153)" fill-opacity="1" d=" M9,-3.5 C9,-3.5 9,3.5 9,3.5 C9,5.707600116729736 7.207600116729736,7.5 5,7.5 C5,7.5 -5,7.5 -5,7.5 C-7.207600116729736,7.5 -9,5.707600116729736 -9,3.5 C-9,3.5 -9,-3.5 -9,-3.5 C-9,-5.707600116729736 -7.207600116729736,-7.5 -5,-7.5 C-5,-7.5 5,-7.5 5,-7.5 C7.207600116729736,-7.5 9,-5.707600116729736 9,-3.5z"></path></g></g><g transform="matrix(1,0,0,1,9.140999794006348,8.67199993133545)" opacity="0.28" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,-0.1509999930858612,0.7990000247955322)"><path fill="rgb(251,114,153)" fill-opacity="1" d=" M8,-3 C8,-3 8,3 8,3 C8,4.931650161743164 6.431650161743164,6.5 4.5,6.5 C4.5,6.5 -4.5,6.5 -4.5,6.5 C-6.431650161743164,6.5 -8,4.931650161743164 -8,3 C-8,3 -8,-3 -8,-3 C-8,-4.931650161743164 -6.431650161743164,-6.5 -4.5,-6.5 C-4.5,-6.5 4.5,-6.5 4.5,-6.5 C6.431650161743164,-6.5 8,-4.931650161743164 8,-3z"></path></g></g><g transform="matrix(0.9883429408073425,-0.7275781631469727,0.6775955557823181,0.920446515083313,7.3224687576293945,-0.7606706619262695)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(0.9937776327133179,-0.11138220876455307,0.11138220876455307,0.9937776327133179,-2.5239999294281006,1.3849999904632568)"><path fill="rgb(0,0,0)" fill-opacity="1" d=" M0.75,-1.25 C0.75,-1.25 0.75,1.25 0.75,1.25 C0.75,1.663925051689148 0.4139249920845032,2 0,2 C0,2 0,2 0,2 C-0.4139249920845032,2 -0.75,1.663925051689148 -0.75,1.25 C-0.75,1.25 -0.75,-1.25 -0.75,-1.25 C-0.75,-1.663925051689148 -0.4139249920845032,-2 0,-2 C0,-2 0,-2 0,-2 C0.4139249920845032,-2 0.75,-1.663925051689148 0.75,-1.25z"></path></g></g><g transform="matrix(1.1436611413955688,0.7535901665687561,-0.6317168474197388,0.9587040543556213,16.0070743560791,2.902894973754883)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(0.992861807346344,0.1192704513669014,-0.1192704513669014,0.992861807346344,-2.5239999294281006,1.3849999904632568)"><path fill="rgb(0,0,0)" fill-opacity="1" d=" M0.75,-1.25 C0.75,-1.25 0.75,1.25 0.75,1.25 C0.75,1.663925051689148 0.4139249920845032,2 0,2 C0,2 0,2 0,2 C-0.4139249920845032,2 -0.75,1.663925051689148 -0.75,1.25 C-0.75,1.25 -0.75,-1.25 -0.75,-1.25 C-0.75,-1.663925051689148 -0.4139249920845032,-2 0,-2 C0,-2 0,-2 0,-2 C0.4139249920845032,-2 0.75,-1.663925051689148 0.75,-1.25z"></path></g></g><g transform="matrix(1,0,0,1,8.890999794006348,8.406000137329102)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0.09099999815225601,1.1009999513626099)"><path fill="rgb(255,255,255)" fill-opacity="1" d=" M7,-3 C7,-3 7,3 7,3 C7,4.379749774932861 5.879749774932861,5.5 4.5,5.5 C4.5,5.5 -4.5,5.5 -4.5,5.5 C-5.879749774932861,5.5 -7,4.379749774932861 -7,3 C-7,3 -7,-3 -7,-3 C-7,-4.379749774932861 -5.879749774932861,-5.5 -4.5,-5.5 C-4.5,-5.5 4.5,-5.5 4.5,-5.5 C5.879749774932861,-5.5 7,-4.379749774932861 7,-3z"></path><path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-width="1.5" d=" M7,-3 C7,-3 7,3 7,3 C7,4.379749774932861 5.879749774932861,5.5 4.5,5.5 C4.5,5.5 -4.5,5.5 -4.5,5.5 C-5.879749774932861,5.5 -7,4.379749774932861 -7,3 C-7,3 -7,-3 -7,-3 C-7,-4.379749774932861 -5.879749774932861,-5.5 -4.5,-5.5 C-4.5,-5.5 4.5,-5.5 4.5,-5.5 C5.879749774932861,-5.5 7,-4.379749774932861 7,-3z"></path></g></g><g transform="matrix(1,0,0,1,8.89900016784668,8.083999633789062)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,-2.5239999294281006,1.3849999904632568)"><path fill="rgb(0,0,0)" fill-opacity="1" d=" M0.875,-1.125 C0.875,-1.125 0.875,1.125 0.875,1.125 C0.875,1.607912540435791 0.48291251063346863,2 0,2 C0,2 0,2 0,2 C-0.48291251063346863,2 -0.875,1.607912540435791 -0.875,1.125 C-0.875,1.125 -0.875,-1.125 -0.875,-1.125 C-0.875,-1.607912540435791 -0.48291251063346863,-2 0,-2 C0,-2 0,-2 0,-2 C0.48291251063346863,-2 0.875,-1.607912540435791 0.875,-1.125z"></path></g></g><g transform="matrix(1,0,0,1,14.008999824523926,8.083999633789062)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,-2.5239999294281006,1.3849999904632568)"><path fill="rgb(0,0,0)" fill-opacity="1" d=" M0.8999999761581421,-1.100000023841858 C0.8999999761581421,-1.100000023841858 0.8999999761581421,1.100000023841858 0.8999999761581421,1.100000023841858 C0.8999999761581421,1.596709966659546 0.4967099726200104,2 0,2 C0,2 0,2 0,2 C-0.4967099726200104,2 -0.8999999761581421,1.596709966659546 -0.8999999761581421,1.100000023841858 C-0.8999999761581421,1.100000023841858 -0.8999999761581421,-1.100000023841858 -0.8999999761581421,-1.100000023841858 C-0.8999999761581421,-1.596709966659546 -0.4967099726200104,-2 0,-2 C0,-2 0,-2 0,-2 C0.4967099726200104,-2 0.8999999761581421,-1.596709966659546 0.8999999761581421,-1.100000023841858z"></path></g></g></g></svg></div></div>
         
     </div>
-</div></div><div class="bilibili-player-video-progress-detail" style="left: 371.5px;"><div class="bilibili-player-video-progress-detail-container" style="margin-left: -80px; width: 160px;">
+</div></div><div class="bilibili-player-video-progress-detail" style="left: 325.5px;"><div class="bilibili-player-video-progress-detail-container" style="margin-left: -80px; width: 160px;">
                 <div class="bilibili-player-video-progress-detail-img" style="width: 160px; height: 90px; line-height: 90px; background-image: url(&quot;//i0.hdslb.com/bfs/videoshot/129823086.jpg&quot;); background-position: 0px 0px;">
                     <div class="bilibili-player-video-progress-detail-time">00:00</div>
                 </div>
@@ -688,6 +690,370 @@
                     <div class="bilibili-player-hotkey-panel"><div class="bilibili-player-hotkey-panel-item"><span class="bilibili-player-hotkey-panel-key">space</span><span class="bilibili-player-hotkey-panel-value">播放/暂停</span></div><div class="bilibili-player-hotkey-panel-item"><span class="bilibili-player-hotkey-panel-key">→</span><span class="bilibili-player-hotkey-panel-value">步进5s</span></div><div class="bilibili-player-hotkey-panel-item"><span class="bilibili-player-hotkey-panel-key">←</span><span class="bilibili-player-hotkey-panel-value">步退5s</span></div><div class="bilibili-player-hotkey-panel-item"><span class="bilibili-player-hotkey-panel-key">↑</span><span class="bilibili-player-hotkey-panel-value">音量增加10%</span></div><div class="bilibili-player-hotkey-panel-item"><span class="bilibili-player-hotkey-panel-key">↓</span><span class="bilibili-player-hotkey-panel-value">音量降低10%</span></div><div class="bilibili-player-hotkey-panel-item"><span class="bilibili-player-hotkey-panel-key">esc</span><span class="bilibili-player-hotkey-panel-value">退出全屏</span></div><div class="bilibili-player-hotkey-panel-item"><span class="bilibili-player-hotkey-panel-key">媒体键 play/pause</span><span class="bilibili-player-hotkey-panel-value">播放/暂停</span></div><div class="bilibili-player-hotkey-panel-item"><span class="bilibili-player-hotkey-panel-key">f</span><span class="bilibili-player-hotkey-panel-value">全屏/退出全屏</span></div><div class="bilibili-player-hotkey-panel-item"><span class="bilibili-player-hotkey-panel-key">[</span><span class="bilibili-player-hotkey-panel-value">多P 上一个</span></div><div class="bilibili-player-hotkey-panel-item"><span class="bilibili-player-hotkey-panel-key">]</span><span class="bilibili-player-hotkey-panel-value">多P 下一个</span></div><div class="bilibili-player-hotkey-panel-item"><span class="bilibili-player-hotkey-panel-key">enter</span><span class="bilibili-player-hotkey-panel-value">发弹幕</span></div></div>
                 </div>
             </div>
+            <div class="bilibili-player-video-bottom-area">
+                
+            <div class="bilibili-player-video-sendbar">
+                <div class="bilibili-player-video-info">
+                    <div class="bilibili-player-video-info-people">
+                        <span class="bilibili-player-video-info-people-number">1</span>
+                        <span class="bilibili-player-video-info-people-text">人正在看</span>
+                    </div>
+                    <div class="bilibili-player-video-info-danmaku player-tooltips-trigger" data-text="当前弹幕池弹幕数14条" data-tooltip="1" data-position="top-center" data-change-mode="0">
+                        <span>，</span>
+                        <span class="bilibili-player-video-info-danmaku-number">14</span>
+                        <span class="bilibili-player-video-info-danmaku-text">条实时弹幕</span>
+                    </div>
+                </div>
+                <div class="bilibili-player-video-danmaku-root">
+                    <div class="bilibili-player-video-danmaku-switch bui bui-switch" aria-label="弹幕显示隐藏"><input class="bui-checkbox" type="checkbox" checked="">
+<span class="bui-body">
+    <span class="bui-dot">
+        <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M1.311 3.759l-.153 1.438h2.186c0 1.832-.066 3.056-.175 3.674-.131.618-.688.959-1.683 1.023-.284 0-.568-.021-.874-.043L.317 8.818c.284.032.59.053.896.053.546 0 .852-.17.929-.511.077-.341.12-1.076.12-2.204H0l.306-3.344h1.847V1.427H.098V.479h3.18v3.28H1.311zM4 1.747h1.311A8.095 8.095 0 004.492.426L5.53.085c.306.426.579.873.809 1.363l-.689.299h1.508c.306-.544.569-1.129.809-1.747l1.082.373c-.219.511-.47.969-.743 1.374h1.268V6.23H7.322v.82H10v1.044H7.322V10H6.208V8.094H3.607V7.05h2.601v-.82H4V1.747zm4.568 3.557v-.831H7.322v.831h1.246zm-2.36 0v-.831H5.016v.831h1.192zM5.016 3.557h1.191v-.873H5.016v.873zm2.306-.873v.873h1.246v-.873H7.322z"></path></svg></span>
+    </span>
+</span><span class="choose_danmaku">关闭弹幕</span></div>
+                    <div class="bilibili-player-video-danmaku-setting"><span class="bp-svgicon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><path d="M16.5 8c1.289 0 2.49.375 3.5 1.022V6a2 2 0 00-2-2H4a2 2 0 00-2 2v10a2 2 0 002 2h7.022A6.5 6.5 0 0116.5 8zM7 13H5a1 1 0 010-2h2a1 1 0 010 2zm2-4H5a1 1 0 010-2h4a1 1 0 010 2z"></path><path d="M20.587 13.696l-.787-.131a3.503 3.503 0 00-.593-1.051l.301-.804a.46.46 0 00-.21-.56l-1.005-.581a.52.52 0 00-.656.113l-.499.607a3.53 3.53 0 00-1.276 0l-.499-.607a.52.52 0 00-.656-.113l-1.005.581a.46.46 0 00-.21.56l.301.804c-.254.31-.456.665-.593 1.051l-.787.131a.48.48 0 00-.413.465v1.209a.48.48 0 00.413.465l.811.135c.144.382.353.733.614 1.038l-.292.78a.46.46 0 00.21.56l1.005.581a.52.52 0 00.656-.113l.515-.626a3.549 3.549 0 001.136 0l.515.626a.52.52 0 00.656.113l1.005-.581a.46.46 0 00.21-.56l-.292-.78c.261-.305.47-.656.614-1.038l.811-.135A.48.48 0 0021 15.37v-1.209a.48.48 0 00-.413-.465zM16.5 16.057a1.29 1.29 0 11.002-2.582 1.29 1.29 0 01-.002 2.582z"></path></svg></span><div class="bilibili-player-video-danmaku-setting-wrap" style="display: none;">
+                    <div class="bilibili-player-video-danmaku-setting-box bui bui-panel bui-dark"><div class="bui-panel-wrap" style="width: 298px; height: 338px;">
+    <div class="bui-panel-move" style="width: 564px; transform: translateX(0px);">
+        
+        <div class="bui-panel-item bui-panel-item-active" style="width: 298px; height: 338px;"><div class="bilibili-player-video-danmaku-setting-left"><div class="bilibili-player-video-danmaku-setting-left-block">
+                        <div class="bilibili-player-video-danmaku-setting-left-block-title">按类型屏蔽</div>
+                        <div class="bilibili-player-video-danmaku-setting-left-block-content"><div class="bilibili-player-block-filter-type " data-name="ctlbar_danmuku_scroll_on" ftype="scroll"><span class="bilibili-player-block-filter-image"><span class="bp-svgicon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M23 3H5a4 4 0 00-4 4v14a4 4 0 004 4h18a4 4 0 004-4V7a4 4 0 00-4-4zM11 9h6a1 1 0 010 2h-6a1 1 0 010-2zm-3 2H6V9h2v2zm4 4h-2v-2h2v2zm9 0h-6a1 1 0 010-2h6a1 1 0 010 2z"></path></svg></span></span><div class="bilibili-player-block-filter-label">滚动</div></div><div class="bilibili-player-block-filter-type " data-name="ctlbar_danmuku_top_on" ftype="top"><span class="bilibili-player-block-filter-image"><span class="bp-svgicon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M23 3H5a4 4 0 00-4 4v14a4 4 0 004 4h18a4 4 0 004-4V7a4 4 0 00-4-4zM9 9H7V7h2v2zm4 0h-2V7h2v2zm4 0h-2V7h2v2zm4 0h-2V7h2v2z"></path></svg></span></span><div class="bilibili-player-block-filter-label">顶部</div></div><div class="bilibili-player-block-filter-type " data-name="ctlbar_danmuku_bottom_on" ftype="bottom"><span class="bilibili-player-block-filter-image"><span class="bp-svgicon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M23 3H5a4 4 0 00-4 4v14a4 4 0 004 4h18a4 4 0 004-4V7a4 4 0 00-4-4zM9 21H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path></svg></span></span><div class="bilibili-player-block-filter-label">底部</div></div><div class="bilibili-player-block-filter-type " data-name="ctlbar_danmuku_color_on" ftype="color"><span class="bilibili-player-block-filter-image"><span class="bp-svgicon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M17.365 11.118c0-.612-.535-1.147-1.147-1.147s-1.147.535-1.147 1.147c0 .611.535 1.147 1.147 1.147s1.147-.536 1.147-1.147zM12.93 9.665c-.764 0-1.376.611-1.376 1.3 0 .689.612 1.301 1.376 1.301s1.376-.612 1.376-1.301-.612-1.3-1.376-1.3zM9.794 11.883c-.764 0-1.376.612-1.376 1.3 0 .689.612 1.3 1.376 1.3s1.376-.611 1.376-1.3c.001-.688-.611-1.3-1.376-1.3zM10.023 15.171c-.612 0-1.147.536-1.147 1.148 0 .611.535 1.146 1.147 1.146s1.147-.535 1.147-1.146c.001-.612-.535-1.148-1.147-1.148zM17.823 12.953c-.611 0-1.147.535-1.147 1.147s.536 1.147 1.147 1.147c.612 0 1.148-.535 1.148-1.147s-.536-1.147-1.148-1.147z"></path><path d="M23.177 3H4.824C2.683 3 1 4.833 1 7.167v13.665C1 23.167 2.683 25 4.824 25h18.353C25.318 25 27 23.167 27 20.833V7.167C27 4.833 25.318 3 23.177 3zm-3.442 13.624c-1.987.612-4.129-.154-5.046.764-.918.918 1.529 1.606 0 2.219-1.988.84-7.341-.535-8.182-4.053-.841-3.441 2.905-6.5 5.888-7.035 2.906-.535 6.041.841 8.181 2.982 2.065 2.141.765 4.74-.841 5.123z"></path></svg></span></span><div class="bilibili-player-block-filter-label">彩色</div></div><div class="bilibili-player-block-filter-type " data-name="ctlbar_danmuku_special_on" ftype="special"><span class="bilibili-player-block-filter-image"><span class="bp-svgicon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M23 3H5a4 4 0 00-4 4v14a4 4 0 004 4h18a4 4 0 004-4V7a4 4 0 00-4-4zM7.849 11.669l.447-.828.492.782.894.184-.536.736.134.966-.85-.321-.804.414.045-.967L7 11.946l.849-.277zm3.352 7.101l-1.43-.506L8.43 19v-1.565L7.357 16.33l1.43-.506.67-1.381.894 1.289 1.475.23-.894 1.289.269 1.519zm7.95-3.9l-2.816-.69-2.458 1.565-.223-2.946-2.145-1.933 2.637-1.151L15.263 7l1.877 2.255 2.86.23-1.52 2.531.671 2.854z"></path></svg></span></span><div class="bilibili-player-block-filter-label">高级</div></div></div>
+                    </div>
+                    <div class="bilibili-player-video-danmaku-setting-left-preventshade">
+                        <span class="bilibili-player-video-danmaku-setting-left-preventshade-box bui bui-checkbox bui-dark player-tooltips-trigger" data-tooltip="2" data-text="视频底部15%部分为空白保留区" data-position="top-left" data-change-mode="1"><input class="bui-checkbox-input" type="checkbox" aria-label="防挡字幕">
+<label class="bui-checkbox-label">
+    <span class="bui-checkbox-icon bui-checkbox-icon-default"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M8 6a2 2 0 00-2 2v16a2 2 0 002 2h16a2 2 0 002-2V8a2 2 0 00-2-2H8zm0-2h16c2.21 0 4 1.79 4 4v16c0 2.21-1.79 4-4 4H8c-2.21 0-4-1.79-4-4V8c0-2.21 1.79-4 4-4z"></path></svg></span>
+    <span class="bui-checkbox-icon bui-checkbox-icon-selected"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M13 18.25l-1.8-1.8c-.6-.6-1.65-.6-2.25 0s-.6 1.5 0 2.25l2.85 2.85c.318.318.762.468 1.2.448.438.02.882-.13 1.2-.448l8.85-8.85c.6-.6.6-1.65 0-2.25s-1.65-.6-2.25 0l-7.8 7.8zM8 4h16c2.21 0 4 1.79 4 4v16c0 2.21-1.79 4-4 4H8c-2.21 0-4-1.79-4-4V8c0-2.21 1.79-4 4-4z"></path></svg></span>
+    <span class="bui-checkbox-name">防挡字幕</span>
+</label></span>
+                    </div>
+                    <div class="bilibili-player-video-danmaku-setting-left-danmaku-mask" style="display: none">
+                        <span class="bilibili-player-video-danmaku-setting-left-danmaku-mask-box"></span>
+                    </div>
+                    <div class="bilibili-player-video-danmaku-setting-left-block-word">
+                        <div class="bilibili-player-video-danmaku-setting-left-block-add">添加屏蔽词</div>
+                        <div class="bilibili-player-video-danmaku-setting-left-block-sync">同步屏蔽列表</div>
+                    </div>
+                    <div class="bilibili-player-video-danmaku-setting-left-opacity">
+                        <div class="bilibili-player-video-danmaku-setting-left-opacity-title">不透明度</div>
+                        <div class="bilibili-player-video-danmaku-setting-left-opacity-content">
+                            <div class="bilibili-player-setting-opacity bui bui-slider bui-dark"><div class="bui-track
+            
+            
+            " style="">
+    <div class="bui-bar-wrap">
+        
+        
+        <div class="bui-bar bui-bar-normal" role="progressbar" style="transform: scaleX(1);"></div>
+        
+    </div>
+    
+    <div class="bui-thumb" style="transform: translateX(188px);">
+        
+        <div class="bui-thumb-tooltip">100%</div>
+        
+        
+        <div class="bui-thumb-dot" style=""></div>
+        
+    </div>
+</div></div>
+                        </div>
+                    </div>
+                    <div class="bilibili-player-video-danmaku-setting-left-area">
+                        <div class="bilibili-player-video-danmaku-setting-left-area-title">显示区域</div>
+                        <div class="bilibili-player-video-danmaku-setting-left-area-content">
+                            <div class="bilibili-player-setting-area bui bui-slider bui-dark"><div class="bui-track
+            
+            
+            " style="">
+    <div class="bui-bar-wrap">
+        
+    </div>
+    
+    <div class="bui-step">
+        
+        <div class="bui-step-item bui-step-item-0" style="left:0%">
+            <div class="bui-step-dot"></div>
+            <div class="bui-step-text">1/4屏</div>
+        </div>
+        
+        <div class="bui-step-item" style="left:25%">
+            <div class="bui-step-dot"></div>
+            <div class="bui-step-text">半屏</div>
+        </div>
+        
+        <div class="bui-step-item" style="left:50%">
+            <div class="bui-step-dot"></div>
+            <div class="bui-step-text">3/4屏</div>
+        </div>
+        
+        <div class="bui-step-item" style="left:75%">
+            <div class="bui-step-dot"></div>
+            <div class="bui-step-text">不重叠</div>
+        </div>
+        
+        <div class="bui-step-item bui-step-item-100" style="left:100%">
+            <div class="bui-step-dot"></div>
+            <div class="bui-step-text">不限</div>
+        </div>
+        
+    </div>
+    
+    <div class="bui-thumb" style="transform: translateX(144px);">
+        
+        
+        <div class="bui-thumb-dot" style=""></div>
+        
+    </div>
+</div></div>
+                        </div>
+                    </div>
+                    <div class="bilibili-player-video-danmaku-setting-left-speedplus">
+                        <div class="bilibili-player-video-danmaku-setting-left-speedplus-title">弹幕速度</div>
+                        <div class="bilibili-player-video-danmaku-setting-left-speedplus-content">
+                            <div class="bilibili-player-setting-speedplus bui bui-slider bui-dark"><div class="bui-track
+            
+            
+            " style="">
+    <div class="bui-bar-wrap">
+        
+        
+        <div class="bui-bar bui-bar-normal" role="progressbar" style="transform: scaleX(0.5);"></div>
+        
+    </div>
+    
+    <div class="bui-step">
+        
+        <div class="bui-step-item bui-step-item-0" style="left:0%">
+            <div class="bui-step-dot"></div>
+            <div class="bui-step-text">慢</div>
+        </div>
+        
+        <div class="bui-step-item bui-step-item-100" style="left:100%">
+            <div class="bui-step-dot"></div>
+            <div class="bui-step-text">快</div>
+        </div>
+        
+    </div>
+    
+    <div class="bui-thumb" style="transform: translateX(94px);">
+        
+        <div class="bui-thumb-tooltip">100%</div>
+        
+        
+        <div class="bui-thumb-dot" style=""></div>
+        
+    </div>
+</div></div>
+                        </div>
+                    </div>
+                    <div class="bilibili-player-video-danmaku-setting-left-fontsize">
+                        <div class="bilibili-player-video-danmaku-setting-left-fontsize-title">字体大小</div>
+                        <div class="bilibili-player-video-danmaku-setting-left-fontsize-content">
+                            <div class="bilibili-player-setting-fontsize bui bui-slider bui-dark"><div class="bui-track
+            
+            
+            " style="">
+    <div class="bui-bar-wrap">
+        
+        
+        <div class="bui-bar bui-bar-normal" role="progressbar" style="transform: scaleX(0.5);"></div>
+        
+    </div>
+    
+    <div class="bui-step">
+        
+        <div class="bui-step-item bui-step-item-0" style="left:0%">
+            <div class="bui-step-dot"></div>
+            <div class="bui-step-text">小</div>
+        </div>
+        
+        <div class="bui-step-item bui-step-item-100" style="left:100%">
+            <div class="bui-step-dot"></div>
+            <div class="bui-step-text">大</div>
+        </div>
+        
+    </div>
+    
+    <div class="bui-thumb" style="transform: translateX(94px);">
+        
+        <div class="bui-thumb-tooltip">100%</div>
+        
+        
+        <div class="bui-thumb-dot" style=""></div>
+        
+    </div>
+</div></div>
+                        </div>
+                    </div>
+                    <div class="bilibili-player-video-danmaku-setting-left-more"><span class="bilibili-player-video-danmaku-setting-left-more-text">更多弹幕设置</span><span class="bp-svgicon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9.188 7.999l-3.359 3.359a.75.75 0 101.061 1.061l3.889-3.889a.75.75 0 000-1.061L6.89 3.58a.75.75 0 10-1.061 1.061l3.359 3.358z"></path></svg></span></div></div></div>
+        
+        <div class="bui-panel-item" style="width: 266px; height: 300px;"><div class="bilibili-player-video-danmaku-setting-right"><div class="bilibili-player-video-danmaku-setting-right-more"><span class="bp-svgicon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M6.811 8.001l3.359-3.359a.75.75 0 10-1.061-1.061L5.22 7.471a.75.75 0 000 1.061l3.889 3.888a.75.75 0 101.061-1.061L6.811 8.001z"></path></svg></span><span class="bilibili-player-video-danmaku-setting-right-more-text">更多弹幕设置</span></div>
+                    <div class="bilibili-player-video-danmaku-setting-right-separator"></div>
+                    <div class="bilibili-player-video-danmaku-setting-right-fullscreensync">
+                        <span class="bilibili-player-video-danmaku-setting-right-fullscreensync-box bui bui-checkbox bui-dark"><input class="bui-checkbox-input" type="checkbox" aria-label="弹幕大小跟随屏幕等比缩放">
+<label class="bui-checkbox-label">
+    <span class="bui-checkbox-icon bui-checkbox-icon-default"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M8 6a2 2 0 00-2 2v16a2 2 0 002 2h16a2 2 0 002-2V8a2 2 0 00-2-2H8zm0-2h16c2.21 0 4 1.79 4 4v16c0 2.21-1.79 4-4 4H8c-2.21 0-4-1.79-4-4V8c0-2.21 1.79-4 4-4z"></path></svg></span>
+    <span class="bui-checkbox-icon bui-checkbox-icon-selected"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M13 18.25l-1.8-1.8c-.6-.6-1.65-.6-2.25 0s-.6 1.5 0 2.25l2.85 2.85c.318.318.762.468 1.2.448.438.02.882-.13 1.2-.448l8.85-8.85c.6-.6.6-1.65 0-2.25s-1.65-.6-2.25 0l-7.8 7.8zM8 4h16c2.21 0 4 1.79 4 4v16c0 2.21-1.79 4-4 4H8c-2.21 0-4-1.79-4-4V8c0-2.21 1.79-4 4-4z"></path></svg></span>
+    <span class="bui-checkbox-name">弹幕大小跟随屏幕等比缩放</span>
+</label></span>
+                    </div>
+                    <div class="bilibili-player-video-danmaku-setting-right-speedsync">
+                        <span class="bilibili-player-video-danmaku-setting-right-speedsync-box bui bui-checkbox bui-dark"><input class="bui-checkbox-input" type="checkbox" aria-label="弹幕速度同步播放倍数">
+<label class="bui-checkbox-label">
+    <span class="bui-checkbox-icon bui-checkbox-icon-default"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M8 6a2 2 0 00-2 2v16a2 2 0 002 2h16a2 2 0 002-2V8a2 2 0 00-2-2H8zm0-2h16c2.21 0 4 1.79 4 4v16c0 2.21-1.79 4-4 4H8c-2.21 0-4-1.79-4-4V8c0-2.21 1.79-4 4-4z"></path></svg></span>
+    <span class="bui-checkbox-icon bui-checkbox-icon-selected"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M13 18.25l-1.8-1.8c-.6-.6-1.65-.6-2.25 0s-.6 1.5 0 2.25l2.85 2.85c.318.318.762.468 1.2.448.438.02.882-.13 1.2-.448l8.85-8.85c.6-.6.6-1.65 0-2.25s-1.65-.6-2.25 0l-7.8 7.8zM8 4h16c2.21 0 4 1.79 4 4v16c0 2.21-1.79 4-4 4H8c-2.21 0-4-1.79-4-4V8c0-2.21 1.79-4 4-4z"></path></svg></span>
+    <span class="bui-checkbox-name">弹幕速度同步播放倍数</span>
+</label></span>
+                    </div>
+                    <div class="bilibili-player-video-danmaku-setting-right-font">
+                        <div class="bilibili-player-video-danmaku-setting-right-font-title">弹幕字体</div>
+                        <div class="bilibili-player-video-danmaku-setting-right-font-content">
+                            <div class="bilibili-player-video-danmaku-setting-right-font-content-fontfamily bui bui-select bui-dark"><div class="bui-select-wrap">
+    <div class="bui-select-border">
+        <div class="bui-select-header">
+            <span class="bui-select-result">仿宋</span>
+            <span class="bui-select-arrow">
+                <span class="bui-select-arrow-down"></span>
+            </span>
+        </div>
+        <div class="bui-select-list-wrap" style="">
+            <ul class="bui-select-list" style="border: none;">
+                
+                <li class="bui-select-item" data-value="SimHei, 'Microsoft JhengHei'">黑体</li>
+                
+                <li class="bui-select-item
+                        
+                        
+                        " data-value="SimSun">宋体</li>
+                
+                <li class="bui-select-item
+                        
+                        
+                        " data-value="NSimSun">新宋体</li>
+                
+                <li class="bui-select-item
+                        
+                        
+                        bui-select-item-active" data-value="FangSong">仿宋</li>
+                
+                <li class="bui-select-item
+                        
+                        
+                        " data-value="'Microsoft YaHei'">微软雅黑</li>
+                
+                <li class="bui-select-item
+                        
+                        
+                        " data-value="'Microsoft Yahei UI Light'">微软雅黑 Light</li>
+                
+                <li class="bui-select-item
+                        
+                        
+                        " data-value="'Noto Sans CJK SC DemiLight'">Noto Sans DemiLight</li>
+                
+                <li class="bui-select-item
+                        
+                        
+                        " data-value="'Noto Sans CJK SC Regular'">Noto Sans Regular</li>
+                
+            </ul>
+        </div>
+    </div>
+</div></div>
+                            <input class="bilibili-player-video-danmaku-setting-right-font-content-fontfamilycustom" style="display: none;">
+                        </div>
+                        <div class="bilibili-player-video-danmaku-setting-right-font-bold">
+                            <span class="bilibili-player-video-danmaku-setting-right-font-bold-box bui bui-checkbox bui-dark"><input class="bui-checkbox-input" type="checkbox" aria-label="粗体">
+<label class="bui-checkbox-label">
+    <span class="bui-checkbox-icon bui-checkbox-icon-default"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M8 6a2 2 0 00-2 2v16a2 2 0 002 2h16a2 2 0 002-2V8a2 2 0 00-2-2H8zm0-2h16c2.21 0 4 1.79 4 4v16c0 2.21-1.79 4-4 4H8c-2.21 0-4-1.79-4-4V8c0-2.21 1.79-4 4-4z"></path></svg></span>
+    <span class="bui-checkbox-icon bui-checkbox-icon-selected"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M13 18.25l-1.8-1.8c-.6-.6-1.65-.6-2.25 0s-.6 1.5 0 2.25l2.85 2.85c.318.318.762.468 1.2.448.438.02.882-.13 1.2-.448l8.85-8.85c.6-.6.6-1.65 0-2.25s-1.65-.6-2.25 0l-7.8 7.8zM8 4h16c2.21 0 4 1.79 4 4v16c0 2.21-1.79 4-4 4H8c-2.21 0-4-1.79-4-4V8c0-2.21 1.79-4 4-4z"></path></svg></span>
+    <span class="bui-checkbox-name">粗体</span>
+</label></span>
+                        </div>
+                    </div>
+                    <div class="bilibili-player-video-danmaku-setting-right-fontborder">
+                        <div class="bilibili-player-video-danmaku-setting-right-fontborder-title">描边类型</div>
+                        <div class="bilibili-player-video-danmaku-setting-right-fontborder-content bui bui-radio bui-dark"><div class="bui-radio-wrap bui-radio-button">
+    <div class="bui-radio-group" style="margin: 0 -4px;">
+    
+    <label class="bui-radio-item" style="margin: 0 4px;">
+        <input type="radio" class="bui-radio-input" value="0" name="bui-radio4">
+        <span class="bui-radio-label">
+            
+            <span class="bui-radio-text">重墨</span>
+        </span>
+    </label>
+    
+    <label class="bui-radio-item" style="margin: 0 4px;">
+        <input type="radio" class="bui-radio-input" value="1" name="bui-radio4">
+        <span class="bui-radio-label">
+            
+            <span class="bui-radio-text">描边</span>
+        </span>
+    </label>
+    
+    <label class="bui-radio-item" style="margin: 0 4px;">
+        <input type="radio" class="bui-radio-input" value="2" name="bui-radio4">
+        <span class="bui-radio-label">
+            
+            <span class="bui-radio-text">45°投影</span>
+        </span>
+    </label>
+    
+    </div>
+</div></div>
+                    </div>
+                    <div class="bilibili-player-video-danmaku-setting-right-type">
+                        <div class="bilibili-player-video-danmaku-setting-right-type-title">渲染类型</div>
+                        <div class="bilibili-player-video-danmaku-setting-right-type-content bui bui-select bui-dark"><div class="bui-select-wrap">
+    <div class="bui-select-border">
+        <div class="bui-select-header">
+            <span class="bui-select-result">CSS3</span>
+            <span class="bui-select-arrow">
+                <span class="bui-select-arrow-down"></span>
+            </span>
+        </div>
+        <div class="bui-select-list-wrap" style="">
+            <ul class="bui-select-list" style="border: none;">
+                
+                <li class="bui-select-item
+                        
+                        
+                         bui-select-item-active" data-value="div">CSS3</li>
+                
+                <li class="bui-select-item
+                        
+                        
+                        " data-value="canvas">Canvas</li>
+                
+            </ul>
+        </div>
+    </div>
+</div></div>
+                    </div>
+                    <div class="bilibili-player-video-danmaku-setting-right-separator"></div>
+                    <div class="bilibili-player-video-danmaku-setting-right-reset bui bui-button bui-button-transparent">恢复默认设置</div></div></div>
+        
+    </div>
+</div></div>
+                </div></div>
+                    <div class="bilibili-player-video-inputbar unlogin">
+                        <div class="bilibili-player-video-inputbar-wrap">
+                            <div class="bilibili-player-video-btn bilibili-player-video-btn-danmaku" style="display: none;">
+                                <span class="bilibili-player-iconfont bilibili-player-iconfont-danmakutype"><span class="bp-svgicon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><path d="M17 16H5c-.55 0-1 .45-1 1s.45 1 1 1h12c.55 0 1-.45 1-1s-.45-1-1-1zM6.96 15c.39 0 .74-.24.89-.6l.65-1.6h5l.66 1.6c.15.36.5.6.89.6.69 0 1.15-.71.88-1.34l-3.88-8.97C11.87 4.27 11.46 4 11 4s-.87.27-1.05.69l-3.88 8.97c-.27.63.2 1.34.89 1.34zM11 5.98L12.87 11H9.13L11 5.98z"></path></svg></span></span>
+                            </div>
+                            <div class="bilibili-player-video-danmaku-wrap" style="display: block;">请先<a href="javascript:void(0);" class="bilibili-player-quick-login">登录</a>或<a href="https://www.bilibili.com/register" target="_blank">注册</a></div>
+                            <input class="bilibili-player-video-danmaku-input" placeholder="发个弹幕见证当下" style="display: none;">
+                            <div class="bilibili-player-video-hint" style="display: block;"><a href="//www.bilibili.com/blackboard/help.html#弹幕相关?id=3ebbac9998474850bfdf42b231477371" target="_blank"><span>弹幕礼仪 </span><span class="bp-svgicon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M9.188 7.999l-3.359 3.359a.75.75 0 101.061 1.061l3.889-3.889a.75.75 0 000-1.061L6.89 3.58a.75.75 0 10-1.061 1.061l3.359 3.358z"></path></svg></span></a></div>
+                        </div>
+                        <div class="bilibili-player-video-btn-send bui bui-button bui-button-blue bui-button-disabled">发送</div>
+                    </div>
+                </div>
+            </div></div>
+        </div>
+        <div class="bilibili-player-filter-wrap bilibili-player-bas-danmaku"></div>
+    <div class="bilibili-player-context-menu-container black" style="top: -9999px; left: -9999px;"><ul></ul></div><div class="bilibili-player-context-menu-container black bilibili-player-context-menu-origin" style="top: -9999px; left: -9999px;"><ul></ul></div></div></div><div id="player_placeholder"></div></div><div></div></div>
 ### 植物大战僵尸
 链接合集：
 <img src="./home/2.png">
