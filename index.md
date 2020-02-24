@@ -23,6 +23,7 @@
   </span>
 </div>
 
+<img src="./home/7.png">
 ### 植物大战僵尸
 链接合集：
 <img src="./home/2.png">
