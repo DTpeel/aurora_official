@@ -1,4 +1,6 @@
 ## Welcome to 清丰君NB Pages
+<span class="h-f-btn h-follow"><i class=""></i>关注
+        </span>
 <style type="text/css">
   body{
   background-image: url(./home/1.png);
@@ -49,8 +51,7 @@
 
  ## 7.各路音乐合集！
   ### [戳我](https://space.bilibili.com/414860281/channel/detail?cid=73680)
-  ### 更多内容请访问清丰君qfj投稿 链接：https://space.bilibili.com/414860281/video或<span class="h-f-btn h-follow"><i class=""></i>关注
-        </span>
+  ### 更多内容请访问清丰君qfj投稿 链接：https://space.bilibili.com/414860281/video 点击关注以获取最新内容 
 
 # 3Th.qita
  ## 暂无
