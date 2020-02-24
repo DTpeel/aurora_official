@@ -62,7 +62,7 @@ For more details see [qingfengjun’bilibili](https://space.bilibili.com/4148602
 您的支持便是我们的动力，看完视频记得一键三连就是最大的赞助，不要忘记每日充电哦！
 <img src="./home/3.png">
 
-javascript:var a=document.body.innerHTML;alert(a.length);
+清丰君推荐：
 
 <li class="downloads">
   <a href="https://bilibili.com">..........................................................<img src="./home/4.png">.................................................................</a>
