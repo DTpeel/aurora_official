@@ -2,7 +2,7 @@
 <style type="text/css">
   body{
   background-image: url(./home/1.png);
-  background-size: 100% 100%;
+  background-size: 99% 99%;
   }
   </style>
 </head>
