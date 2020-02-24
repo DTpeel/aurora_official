@@ -64,7 +64,29 @@
 
 For more details see [qingfengjun’bilibili](https://space.bilibili.com/414860281/video).
 
-
+<div class="n-statistics">
+  <a href="/414860281/fans/follow" class="n-data n-gz" title="806">
+    <p class="n-data-k">关注数</p>
+    <p id="n-gz" class="n-data-v space-attention">806</p>
+  </a>
+  <a href="/414860281/fans/fans" class="n-data n-fs" title="4,409">
+    <p class="n-data-k">粉丝数</p>
+    <p id="n-fs" class="n-data-v space-fans">4409</p>
+  </a>
+  <div title="视频、动态、专栏累计获赞25,214" class="n-data n-bf">
+    <p class="n-data-k">获赞数</p>
+    <p id="n-bf" class="n-data-v">2.5万</p>
+  </div>
+  <div title="截止昨天，播放数总计为611,414" class="n-data n-bf">
+    <p class="n-data-k">播放数</p>
+    <p id="n-bf" class="n-data-v">61.1万</p>
+  </div>
+  <div title="截止昨天，阅读数总计为2,149" class="n-data n-bf">
+    <p class="n-data-k">阅读数</p>
+    <p id="n-bf" class="n-data-v">2149</p>
+  </div>
+</div>
+</div>
 ### 赞助？
 您的支持便是我们的动力，看完视频记得一键三连就是最大的赞助，不要忘记每日充电哦！
 <img src="./home/3.png">
