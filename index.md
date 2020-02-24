@@ -68,5 +68,5 @@ javascript:var a=document.body.innerHTML;alert(a.length);
   <a href="https://bilibili.com">...............................................................<img src="./home/4.png">..........................................</a>
 </li>
 <li class="downloads">
-  <a href="http://wpa.qq.com/msgrd?v=3&uin=2820685440&site=qq&menu=yes">..........................................<img src="./home/5.png">...............................................................</a>
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=2820685440&site=qq&menu=yes">................................................................<img src="./home/5.png">...............................................................</a>
 </li>
