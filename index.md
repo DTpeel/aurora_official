@@ -28,7 +28,7 @@
 
 
 # 宣传片
-<li data-aid="86886803" class="small-item fakeDanmu-item watched"><a href="//www.bilibili.com/video/av86886803" target="_blank" class="cover"><img src="//i1.hdslb.com/bfs/archive/85bbf90f070bca12789e6ca35fed502bd742ba47.jpg@380w_240h_100Q_1c.webp" alt="你从未玩过的pvz——冒险时光！（植物大战僵尸冒险时光版宣传片重制）"><span class="length">01:45</span><span class="i-watchlater"></span><!----><div class="preview-bg" style="background-position: -320px 0px; background-size: 1600px; background-image: url(&quot;//i0.hdslb.com/bfs/videoshot/148481272.jpg&quot;); opacity: 1; display: none;"></div><div class="preview-wrapper" style="opacity: 1; display: none;"><div class="preview-loading"></div><div class="preview-progress"><div class="preview-progress-bar" style="width: 30%;"></div></div></div><div class="fake-danmu-mask" style="display: none; opacity: 1;">
+https://www.bilibili.com/video/av86886803
 ### 植物大战僵尸
 链接合集：
 <img src="./home/2.png">
