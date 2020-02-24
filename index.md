@@ -65,10 +65,6 @@
 For more details see [qingfengjun’bilibili](https://space.bilibili.com/414860281/video).
 
 <div class="n-statistics">
-  <a href="/414860281/fans/follow" class="n-data n-gz" title="806">
-    <p class="n-data-k">关注数</p>
-    <p id="n-gz" class="n-data-v space-attention">806</p>
-  </a>
   <a href="/414860281/fans/fans" class="n-data n-fs" title="4,409">
     <p class="n-data-k">粉丝数</p>
     <p id="n-fs" class="n-data-v space-fans">4409</p>
@@ -80,10 +76,6 @@ For more details see [qingfengjun’bilibili](https://space.bilibili.com/4148602
   <div title="截止昨天，播放数总计为611,414" class="n-data n-bf">
     <p class="n-data-k">播放数</p>
     <p id="n-bf" class="n-data-v">61.1万</p>
-  </div>
-  <div title="截止昨天，阅读数总计为2,149" class="n-data n-bf">
-    <p class="n-data-k">阅读数</p>
-    <p id="n-bf" class="n-data-v">2149</p>
   </div>
 </div>
 </div>
