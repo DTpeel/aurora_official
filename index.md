@@ -65,5 +65,5 @@ For more details see [qingfengjun’bilibili](https://space.bilibili.com/4148602
 
 <li class="downloads">
   <a href="https://bilibili.com"><img src="./home/4.png"></a>
-  <a href="https://bilibili.com"><img src="./home/5.png">清丰君qfj</a>
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=2820685440&site=qq&menu=yes"><img src="./home/5.png">清丰君qfj</a>
 </li>
