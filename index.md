@@ -1,6 +1,4 @@
 ## Welcome to 清丰君NB Pages
-<span class="h-f-btn h-follow"><i class=""></i>关注
-        </span>
 <style type="text/css">
   body{
   background-image: url(./home/1.png);
@@ -61,13 +59,13 @@ For more details see [qingfengjun’bilibili](https://space.bilibili.com/4148602
 
 
 ### 赞助？
-您的支持便是我们的动力，看完视频记得一键三连就是最大的赞助
+您的支持便是我们的动力，看完视频记得一键三连就是最大的赞助，不要忘记每日充电哦！
 <img src="./home/3.png">
 
 javascript:var a=document.body.innerHTML;alert(a.length);
 
 <li class="downloads">
-  <a href="https://bilibili.com">.........................................................<img src="./home/4.png">.................................................................</a>
+  <a href="https://bilibili.com">..........................................................<img src="./home/4.png">.................................................................</a>
 </li>
 <li class="downloads">
   <a href="http://wpa.qq.com/msgrd?v=3&uin=2820685440&site=qq&menu=yes">..........................................................<img src="./home/5.png">.........................................................</a>
