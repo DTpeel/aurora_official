@@ -63,4 +63,7 @@ For more details see [qingfengjun’bilibili](https://space.bilibili.com/4148602
 <img src="./home/3.png">
 
 
-<li class="downloads"><a href="https://bilibili.com">bilibili官网</a></li>
+<li class="downloads">
+  <a href="https://bilibili.com">bilibili官网</a>
+  <img src="./home/4.png">
+</li>
