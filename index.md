@@ -6,6 +6,7 @@
   }
   </style>
 </head>
+[当前网址二维码,戳我下载](https://sh-download.weiyun.com/ftn_handler/630521079a258655ba419a9125b2ffa1a7b626bf5ed633b49b64f5a05f21c4e37237f238cde8823b8bd8635ae58fcc415f16b2128e162804fe48e0f7c5b134c7/1582514929.png?fname=1582514929.png&from=30013&version=3.3.3.3)
 清丰君的b站账号： [清丰君qfj](https://space.bilibili.com/414860281?from=search&seid=18175999809506675303) 
 
 清丰君的非官方wiki：（纯属胡扯）[wiki](https://github.com/DTpeel/homepage/wiki)
