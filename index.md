@@ -36,11 +36,11 @@ https://www.bilibili.com/video/av86886803
 ```markdown
 链接
 # 1Fi.游戏下载
-注：在此页面下载的游戏解压时需要密码，密码请进群下载群公告v1.2.2.D此文件夹以获取密码，或直接进群下载
+注：在此页面下载的游戏解压时需要密码，密码请进群下载群公告v1.2.2.D.doc此文件夹以获取密码，或直接进群下载
  ## 主线
-  ### [v.1.10.2](https://njc-download.weiyun.com/ftn_handler/afd18064460fc957010f8c5b4599297b3f87fd0a9a486cec3d16299408cc10d5a387920798e8f8ca02a448566a1e31cdf4056857f62a9c94c51a7b165adab0d1/1.10.5.rar?fname=1.10.5.rar&from=30013&version=3.3.3.3) 
+  ### [v.1.10.5](https://share.weiyun.com/5Bn57g8) 
  ## 支线
-  ### [v.1.7.9](https://njc-download.weiyun.com/ftn_handler/8b4e3a19442efba7c3c6681846975f128c802bd20250788fafc1901190af58a3461e43d77e9dda6291e66934e35a733e6290f8539fefd1fe3d7dea7c02be9cd5/1.7.9%EF%BC%88%E6%94%AF%E7%BA%BF%EF%BC%89.rar?fname=1.7.9%EF%BC%88%E6%94%AF%E7%BA%BF%EF%BC%89.rar&from=30013&version=3.3.3.3)
+  ### [v.1.7.9](https://share.weiyun.com/5F110rl)
   
 # 2Se.植物大战僵尸视频合集！
  ## 1.植物大战僵尸：冒险时光
