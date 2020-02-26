@@ -29,7 +29,7 @@
 
 
 # 宣传片
-https://www.bilibili.com/video/av86886803
+<iframe src="//player.bilibili.com/player.html?aid=86886803&cid=148481272&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ### 植物大战僵尸
 链接合集：
 <img src="./home/2.png">
