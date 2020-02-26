@@ -27,7 +27,7 @@
 <img src="./home/7.jpg">
 
 
-<img src="./home/Rec01.mp4>
+<img src="./home/Rec01.mp4">
 
 # 宣传片
 <iframe src="//player.bilibili.com/player.html?aid=86886803&cid=148481272&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
