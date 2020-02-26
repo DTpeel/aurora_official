@@ -27,11 +27,15 @@
 <img src="./home/7.jpg">
 
 
-<iframe src="./home/Rec01.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 # 宣传片
 <iframe src="//player.bilibili.com/player.html?aid=86886803&cid=148481272&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ### 植物大战僵尸
+
+下载游戏教程（防止某些小学生看不懂）
+注：由于网站为外网，部分用户视频加载较慢，如无法使用请下载视频后观看
+下载 下载游戏教程视频：[戳我]()
+<iframe src="./home/Rec01.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 链接合集：
 <img src="./home/2.png">
 ```markdown
