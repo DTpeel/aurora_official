@@ -6,7 +6,7 @@
   }
   </style>
 </head>
-[当前网址二维码,戳我下载](https://sh-download.weiyun.com/ftn_handler/630521079a258655ba419a9125b2ffa1a7b626bf5ed633b49b64f5a05f21c4e37237f238cde8823b8bd8635ae58fcc415f16b2128e162804fe48e0f7c5b134c7/1582514929.png?fname=1582514929.png&from=30013&version=3.3.3.3)
+[当前网址二维码,戳我下载](https://qr.api.cli.im/qr/downQr?data=https%253A%252F%252Fdtpeel.github.io%252Fqfjhomepage%252F&level=H&transparent=false&bgcolor=%23FFFFFF&forecolor=images%2Fforecolor%2F22.png&blockpixel=12&marginblock=2&logourl=&size=300&text=&logoshape=no&fontsize=30&fontfamily=msyh.ttf&fontcolor=&incolor=&outcolor=&qrcode_eyes=pin-12.png&background=&wper=0&hper=0&tper=0&lper=0&eye_use_fore=1&qrpad=10&kid=bizcliim&time=1582684221&key=52ea49a84d45fab65b4dc4c5a54e2c4c&type=png)
 清丰君的b站账号： [清丰君qfj](https://space.bilibili.com/414860281?from=search&seid=18175999809506675303) 
 
 清丰君的非官方wiki：（纯属胡扯）[wiki](https://github.com/DTpeel/homepage/wiki)
@@ -29,7 +29,7 @@
 
 
 # 宣传片
-<iframe src="//player.bilibili.com/player.html?aid=86886803&cid=148481272&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=86886803&cid=148481272&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" size=50% 50%> </iframe>
 ### 植物大战僵尸
 链接合集：
 <img src="./home/2.png">
