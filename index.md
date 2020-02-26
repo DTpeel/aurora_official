@@ -1,4 +1,4 @@
-## Welcome to 清丰君NB Pages
+## {内含音乐} Welcome to 清丰君 Pages
 <style type="text/css">
   body{
   background-image: url(./home/1.png);
