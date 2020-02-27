@@ -15,7 +15,7 @@
 
 <embed src="//music.163.com/style/swf/widget.swf?sid=4010234&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=27961170&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+<embed src="//music.163.com/style/swf/widget.swf?sid=27961170&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 
 群意见反馈：[如有意见请在此反馈（无需全填）](https://docs.qq.com/form/edit/BqI21X2yZIht1QOI5S28Zx6o23ngqV2VuNpq2ufEmB36DXW34azzwf3C3fB70rLWGf2ICBVE29B7UH3NMd4r2?tdsourcetag=s_pctim_send_grpfile&ADUIN=3279587648&ADSESSION=1582451887&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26933#/edit)
                <img src="./home/0.png">
