@@ -6,6 +6,10 @@
   }
   </style>
 </head>
+
+<p class="user"><a target="_blank" href="//space.bilibili.com/414860281" class="name">清丰君qfj</a><a href="//www.bilibili.com/html/help.html#k_5" target="_blank"><i class="level l5"></i></a></p>
+<a href="//message.bilibili.com/#whisper/mid414860281" target="_blank" class="message">发消息</a>
+
 [当前网址二维码,戳我下载](https://qr.api.cli.im/qr/downQr?data=https%253A%252F%252Fdtpeel.github.io%252Fqfjhomepage%252F&level=H&transparent=false&bgcolor=%23FFFFFF&forecolor=images%2Fforecolor%2F22.png&blockpixel=12&marginblock=2&logourl=&size=300&text=&logoshape=no&fontsize=30&fontfamily=msyh.ttf&fontcolor=&incolor=&outcolor=&qrcode_eyes=pin-12.png&background=&wper=0&hper=0&tper=0&lper=0&eye_use_fore=1&qrpad=10&kid=bizcliim&time=1582684221&key=52ea49a84d45fab65b4dc4c5a54e2c4c&type=png)
 清丰君的b站账号： [清丰君qfj](https://space.bilibili.com/414860281?from=search&seid=18175999809506675303) 
 
@@ -86,7 +90,6 @@ For more details see [qingfengjun’bilibili](https://space.bilibili.com/4148602
 您的支持便是我们的动力，看完视频记得一键三连就是最大的赞助，不要忘记每日充电哦！
 <img src="./home/3.png">
 
-<div class="user-card-m" style="left: 661.628px; top: 153.994px;"><!----><div><div class="bg" style="background-image: url(&quot;//i0.hdslb.com/bfs/space/768cc4fd97618cf589d23c2711a1d1a729f42235.png@.webp&quot;);"></div><a href="//space.bilibili.com/414860281" target="_blank" class="face"><img src="//i2.hdslb.com/bfs/face/945de93442a1671fcc099464d167d0141e4501a6.jpg@50w_50h.webp" width="50" height="50"><!----><!----></a><div class="info"><p class="user"><a target="_blank" href="//space.bilibili.com/414860281" class="name">清丰君qfj</a><a href="//www.bilibili.com/html/help.html#k_5" target="_blank"><i class="level l5"></i></a></p><p class="social"><a href="//space.bilibili.com/414860281/fans/follow" target="_blank">关注: <span class="like">830</span></a><a href="//space.bilibili.com/414860281/fans/fans" target="_blank">粉丝: <span class="fans">5903</span></a></p><p class="sign">快中考了，咕咕咕。</p></div><div class="btn-box"><a class="like"><span class="default-text">+关注</span></a><a href="//message.bilibili.com/#whisper/mid414860281" target="_blank" class="message">发消息</a></div></div><iframe frameborder="0" class="layout"></iframe></div>
 
 清丰君推荐：
 
@@ -102,3 +105,7 @@ For more details see [qingfengjun’bilibili](https://space.bilibili.com/4148602
     <img src="./home/6.png">
   </a>
 </li>
+作者的广告：
+【原创】<持续更新中>[内含音乐]minecraft1.13+全命令逐一详解/指令教程
+https://www.mcbbs.net/thread-1033335-1-1.html
+(出处: Minecraft(我的世界)中文论坛)
