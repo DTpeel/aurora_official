@@ -10,8 +10,7 @@
 
 aurora_official的b站账号： [aurora_official](https://space.bilibili.com/) 
 
-粉丝群：963666224<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=44215c63afbe7ffef01a54753a3c148923c6e0bc7b061ef283f5ab59784d8f3f"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="植物大战僵尸：冒险时" title="植物大战僵尸：冒险时"></a>
-
+粉丝群：
 <embed src="//music.163.com/style/swf/widget.swf?sid=4010234&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 <embed src="//music.163.com/style/swf/widget.swf?sid=27961170&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all">
 </embed>
@@ -48,7 +47,7 @@ aurora_official的b站账号： [aurora_official](https://space.bilibili.com/)
  ## 暂无
 ```
 
-For more details see [qingfengjun’bilibili](https://space.bilibili.com/414860281/video).
+For more details see [aurora_official’bilibili](https://space.bilibili.com/).
 
 <span class="h-f-btn h-follow">
   <i class="关注">
