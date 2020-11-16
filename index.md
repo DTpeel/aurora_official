@@ -3,13 +3,8 @@
 <style type="text/css">
   body{
   background-image: url(./home/background.png);
-  background-size: 100% 99%;
-  width:80%;
-
             position:relative;
-
             left:50%;
-
             margin-left:-40%;
   }
   </style>
