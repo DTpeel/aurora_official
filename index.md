@@ -6,7 +6,7 @@
   <title>
     深空aurora发展墙
   </title>
-<head>
+</head>
 <body>
   <h3>
 这里是深空盒子aurorabox的发展墙，用于记录深空从社区到盒子的发展征程
