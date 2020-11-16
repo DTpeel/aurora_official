@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 ## {内含音乐} Welcome to aurora_official历史墙 Pages
 <style type="text/css">
-  body{
-  background-image: url(./home/background.png);
-            position:relative;
-            left:50%;
-            margin-left:-40%;
-  }
-  </style>
+<style>
+  #bg{ width:800px; 
+           height:600px; 
+           border:5px solid #C03;
+           background:url(.home/background.png) ；
+         }
+</style>
 <html>
   <h3>
     <p class="monospace">
