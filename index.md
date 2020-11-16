@@ -2,10 +2,8 @@
 
 <html>
   <h3>
-    <p class="monospace">
 这里是深空盒子aurorabox的发展墙，用于记录深空从社区到盒子的发展征程
 我们为什么会创立深空
-    </p>
   <h3>
 <html>
 
@@ -29,6 +27,7 @@ aurora_official的b站账号： [aurora_official](https://space.bilibili.com/)
 
 链接合集：
 <img src="./home/2.png">
+
 ```markdown
 链接
 # 1Fi.盒子下载
