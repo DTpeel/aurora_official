@@ -29,7 +29,7 @@ aurora_official的b站账号： [aurora_official](https://space.bilibili.com/)
 
 
 # 宣传片
-
+<iframe src="//player.bilibili.com/player.html?aid=712802738&bvid=BV1fD4y1Q7NA&cid=256284881&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ### 我的世界
 
 链接合集：
