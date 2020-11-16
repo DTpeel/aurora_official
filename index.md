@@ -1,7 +1,7 @@
 ## {内含音乐} Welcome to aurora_official历史墙 Pages
 <style type="text/css">
   body{
-  background-image: url(./home/1.png);
+  background-image: url(./home/background.png);
   background-size: 100% 99%;
   }
   </style>
