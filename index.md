@@ -7,9 +7,12 @@
   }
   <img src="./background.jpg" width="100%" height="100%" style="z-index:-100;position:absolute;left:0;top:0">
   </style>
-</head>
+<html>
+  <h3>
 这里是深空盒子的发展墙，用于记录深空从社区到盒子的发展征程
 我们为什么会创立深空会在此了解
+  <h3>
+<html>
 
 aurora_official的b站账号： [aurora_official](https://space.bilibili.com/) 
 
