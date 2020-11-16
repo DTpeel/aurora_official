@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 ## {内含音乐} Welcome to aurora_official历史墙 Pages
 <style type="text/css">
 <style>
