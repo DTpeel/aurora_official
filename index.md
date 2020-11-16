@@ -4,6 +4,7 @@
   background-image: url(./home/background.png);
   background-size: 100% 99%;
   }
+  <img src="./background.jpg" width="100%" height="100%" style="z-index:-100;position:absolute;left:0;top:0">
   </style>
 </head>
 这里是深空盒子的发展墙，用于记录深空从社区到盒子的发展征程
