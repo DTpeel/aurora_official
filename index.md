@@ -12,10 +12,7 @@
 aurora_official的b站账号： [aurora_official](https://space.bilibili.com/) 
 
 粉丝群：
- <a href=" http://qun.qq.com/#jointhegroup/gid/709490473" target="_blank"><img title="深空盒子官方①群" border="0" alt="深空盒子官方①群" src=" http://cgi.qun.qq.com/gscgi/s1/gp.do?gid=709490473" /></a> 
-
-
-               <img src="./home/0.png">
+[深空盒子官方①群：<img src="./home/join_aurorachat_1.png">](https://jq.qq.com/?_wv=1027&k=4jYm7Ks3)
 
 <div class="clearfix g-search search-container">
   <input type="text" placeholder="无法搜索的框wwww">
