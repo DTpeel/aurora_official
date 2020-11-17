@@ -63,10 +63,33 @@ aurora_official的b站账号： [aurora_official](https://space.bilibili.com/)
 
 For more details see [aurora_official’bilibili](https://space.bilibili.com/).
 
-<span class="h-f-btn h-follow">
-  <i class="关注">
-  </i>
-        </span>
+<style>
+
+.thisclass{background-color:#FF9999}
+
+</style>
+
+<script language="javascript">
+
+function change(color){
+
+var el=event.srcElement
+
+if (el.tagName=="INPUT"&&el.type=="button")
+
+event.srcElement.style.backgroundColor=color
+
+}
+
+function jumpto2(url){
+
+window.location=url
+
+}
+
+</script>
+
+
 ### 赞助？
 您的支持便是我们的动力，看完视频记得一键三连就是最大的赞助，不要忘记每日充电哦！
 <img src="./home/3.png">
