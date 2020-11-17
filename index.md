@@ -108,203 +108,79 @@ window.location=url
 https://www.mcbbs.net/thread-1033335-1-1.html
 (出处: Minecraft(我的世界)中文论坛)
 
+
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
 
- 
+<head>
 
-	<head>
+    <meta charset="UTF-8">
 
-		<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>简单导航栏学习</title>
+    <title>Document</title>
 
-		<style type="text/css">
+    <style>
 
-			* {
+    a {
 
-				margin: 0;
+        /* 去掉下划线 */
 
-				padding: 0;
+        text-decoration:none;
 
-			}
+        /* 转为行内块元素 */
 
-			
+        display:inline-block;
 
-			ul {
+        /* 字体转为黑色 */
 
-				list-style-type: none;
+        color: black;
 
-			}
+        /* 行内块元素a的内边距为20px */
 
-			
+        padding:20px;
 
-			.top {
+    }  
 
-				position: fixed;
+    a:hover{
 
-				left: 0;
+        /* 鼠标悬停时，a的背景颜色变色 */
 
-				right: 0;
+        background-color:rgb(204, 202, 206);
 
-				top: 0;
+    }
 
-				z-index: 999;
+    div {
 
-				height: 50px;
+        /* 上边框为3像素直线橙色 */
 
-				background-color: rgba(0, 0, 0, 0.6);
+        border-top:3px solid orange;
 
-			}
+        /* 下边框为1像素直线灰色 */
 
-			
+        border-bottom: 1px solid #F1F2F1;
 
-			.menu {
+    }
 
-				width: 1000px;
+    </style>    
 
-				margin: 0 auto;
+</head>
 
-				overflow: hidden;
+<body>
 
-			}
+    <div>
 
-			
+        <a href="https://dtpeel.github.io/aurora_official/">首页</a>
 
-			.logo {
+        <a href="https://dtpeel.github.io/aurora_official/%E6%B5%8B%E8%AF%95.html">制作组名单</a>
 
-				float: left;
+        <a href="#">更多</a>
 
-				margin-top: 9px;
 
-			}
+    </div>
 
-			
-
-			.logo a {
-
-				display: inline-block;
-
-				width: 32px;
-
-				height: 32px;
-
-				background-image: url("http://temp.im/32x32/4CD964/fff");
-
-				background-size: 32px 32px;
-
-			}
-
-			
-
-			.nav {
-
-				float: right;
-
-				margin-top: 10px;
-
-				font-size: 0;
-
-			}
-
-			
-
-			.nav li {
-
-				display: inline-block;
-
-				margin-left: 40px;
-
-			}
-
-			
-
-			.nav a {
-
-				display: inline-block;
-
-				height: 30px;
-
-				line-height: 30px;
-
-				font-size: 12px;
-
-				color: #fff;
-
-				text-decoration: none;
-
-			}
-
-			
-
-			.nav a:hover {
-
-				color: #83c3f3;
-
-			}
-
-		</style>
-
-	</head>
-
- 
-
-	<body>
-
-		<div class="top">
-
-			<div class="menu">
-
-				<h1 class="logo"><a href="http://www.dowebok.com/"></a></h1>
-
-				<ul class="nav">
-
-					<li>
-
-						<a href="javascript:">首页</a>
-
-					</li>
-
-					<li>
-
-						<a href="javascript:">产品</a>
-
-					</li>
-
-					<li>
-
-						<a href="javascript:">技术</a>
-
-					</li>
-
-					<li>
-
-						<a href="javascript:">渠道</a>
-
-					</li>
-
-					<li>
-
-						<a href="javascript:">论坛</a>
-
-					</li>
-
-					<li>
-
-						<a href="javascript:">关于我们</a>
-
-					</li>
-
-				</ul>
-
-			</div>
-
-		</div>
-
-	</body>
-
- 
+</body>
 
 </html>
 
