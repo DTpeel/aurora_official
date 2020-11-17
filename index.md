@@ -1,6 +1,45 @@
 
 ## {内含音乐} Welcome to aurora_official历史墙 Pages
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    a {
+        /* 去掉下划线 */
+        text-decoration:none;
+        /* 转为行内块元素 */
+        display:inline-block;
+        /* 字体转为黑色 */
+        color: black;
+        /* 行内块元素a的内边距为20px */
+        padding:20px;
+    }  
+    a:hover{
+        /* 鼠标悬停时，a的背景颜色变色 */
+        background-color:rgb(204, 202, 206);
+    }
+    div {
+        /* 上边框为3像素直线橙色 */
+        border-top:3px solid orange;
+        /* 下边框为1像素直线灰色 */
+        border-bottom: 1px solid #F1F2F1;
+    }
+    </style>    
+</head>
+<body>
+    <div>
+        <a href="https://dtpeel.github.io/aurora_official/">首页</a>
+        <a href="https://dtpeel.github.io/aurora_official/%E6%B5%8B%E8%AF%95.html">制作组名单</a>
+        <a href="https://bbs.aurora-sky.top/">深空论坛</a>
+    </div>
+</body>
+</html>
+
+
+
 <head>
   <title>
     深空aurora发展墙
@@ -107,81 +146,5 @@ window.location=url
 【原创】<持续更新中>[内含音乐]minecraft1.13+全命令逐一详解/指令教程
 https://www.mcbbs.net/thread-1033335-1-1.html
 (出处: Minecraft(我的世界)中文论坛)
-
-
-<!DOCTYPE html>
-
-<html lang="en">
-
-<head>
-
-    <meta charset="UTF-8">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Document</title>
-
-    <style>
-
-    a {
-
-        /* 去掉下划线 */
-
-        text-decoration:none;
-
-        /* 转为行内块元素 */
-
-        display:inline-block;
-
-        /* 字体转为黑色 */
-
-        color: black;
-
-        /* 行内块元素a的内边距为20px */
-
-        padding:20px;
-
-    }  
-
-    a:hover{
-
-        /* 鼠标悬停时，a的背景颜色变色 */
-
-        background-color:rgb(204, 202, 206);
-
-    }
-
-    div {
-
-        /* 上边框为3像素直线橙色 */
-
-        border-top:3px solid orange;
-
-        /* 下边框为1像素直线灰色 */
-
-        border-bottom: 1px solid #F1F2F1;
-
-    }
-
-    </style>    
-
-</head>
-
-<body>
-
-    <div>
-
-        <a href="https://dtpeel.github.io/aurora_official/">首页</a>
-
-        <a href="https://dtpeel.github.io/aurora_official/%E6%B5%8B%E8%AF%95.html">制作组名单</a>
-
-        <a href="#">更多</a>
-
-
-    </div>
-
-</body>
-
-</html>
 
 
