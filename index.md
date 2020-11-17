@@ -18,10 +18,9 @@ aurora_official的b站账号： [aurora_official](https://space.bilibili.com/)
 
 粉丝群：
 深空盒子官方①群：
-<li class="downloads"><a href="https://jq.qq.com/?_wv=1027&k=4jYm7Ks3">
+<a href="https://jq.qq.com/?_wv=1027&k=4jYm7Ks3">
   <img src="./home/join_aurorachat_1.jpg">
   </a>
-</li>
 
 
 <div class="clearfix g-search search-container">
