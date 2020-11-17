@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 ## {内含音乐} Welcome to aurora_official历史墙 Pages
 
-<html>
-  <head>
-    <title>
-      深空aurora发展墙
-    </title>
-  </head>
-  <body>
+<head>
+  <title>
+    深空aurora发展墙
+  </title>
+</head>
+<body>
   <h3>
 这里是深空盒子aurorabox的发展墙，用于记录深空从社区到盒子的发展征程
 我们为什么会创立深空
   </h3> 
-  </body>
-<html>
+</body>
+
 
 aurora_official的b站账号： [aurora_official](https://space.bilibili.com/) 
 
