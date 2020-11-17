@@ -19,7 +19,7 @@
     }  
     a:hover{
         /* 鼠标悬停时，a的背景颜色变色 */
-        background-color:rgb(204, 202, 206);
+        background-color:rgb(0, 0, 255);
     }
     div {
         /* 上边框为3像素直线橙色 */
