@@ -19,7 +19,7 @@
     }  
     a:hover{
         /* 鼠标悬停时，a的背景颜色变色 */
-        background-color:rgb(0, 0, 255);
+        background-color:rgb(204, 202, 206);
     }
     div {
         /* 上边框为3像素直线橙色 */
@@ -61,14 +61,13 @@ aurora_official的b站账号： [aurora_official](https://space.bilibili.com/)
   <img src="./home/join_aurorachat_1.jpg">
   </a>
 
-
+<html>
 <div class="clearfix g-search search-container">
   <input type="text" placeholder="无法搜索的框wwww">
   <span class="icon search-btn">
   </span>
 </div>
-
-<img src="./home/.jpg">
+<html>
 
 
 # 宣传片
