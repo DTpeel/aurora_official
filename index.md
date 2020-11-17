@@ -11,8 +11,6 @@
         text-decoration:none;
         /* 转为行内块元素 */
         display:inline-block;
-        /* 字体转为蓝色 */
-        color: light blue;
         /* 行内块元素a的内边距为20px */
         padding:20px;
     }  
