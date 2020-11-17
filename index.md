@@ -1,7 +1,6 @@
 
-## {内含音乐} Welcome to aurora_official历史墙 Pages
+## {内含音乐} Welcome to aurora_official历史墙主页
 
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -36,7 +35,6 @@
         <a href="https://bbs.aurora-sky.top/">深空论坛</a>
     </div>
 </body>
-</html>
 
 
 
@@ -61,13 +59,13 @@ aurora_official的b站账号： [aurora_official](https://space.bilibili.com/)
   <img src="./home/join_aurorachat_1.jpg">
   </a>
 
-<html>
+
 <div class="clearfix g-search search-container">
   <input type="text" placeholder="无法搜索的框wwww">
   <span class="icon search-btn">
   </span>
 </div>
-<html>
+
 
 
 # 宣传片
