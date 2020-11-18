@@ -91,7 +91,8 @@ aurora_official的b站账号： [aurora_official](https://space.bilibili.com/)
  ## 2020年11月17日，深空盒子官方英文译名确立为aurora box，非官方全称译名aurora modifybox for minecraft
  
 # 2.盒子下载
-
+    v.0.0.1b1:版本过旧，已不提供下载
+    v.0.0.2b1:http://wws.lanzous.com/iIjV8if1t5i
 # 3Th.qita
  ## 暂无
 ```
